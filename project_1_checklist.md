@@ -44,3 +44,9 @@ class myClass(object):
 - [ ] readme gives the user instructions on how to get started running your python code
 
 [Testing](https://www.udacity.com/course/software-testing--cs258)
+
+Further Improvements
+- [ ] Movie
+	- [ ] add release year
+	- [ ] add actors
+- [ ] adjust html template to show new fields
