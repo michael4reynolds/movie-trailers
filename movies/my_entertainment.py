@@ -1,7 +1,8 @@
 import media
 import fresh_tomatoes
 
-# Movie Data
+# Manually added movie data
+
 shawshank_remdemption = media.Movie(
         "The Shawshank Redemption",
         "Framed for murder, a man gains admiration in prison for his sense{0}"
@@ -39,6 +40,9 @@ spirited_away = media.Movie(
         "http://image.tmdb.org/t/p/w342/dL11DBPcRhWWnJcFXl9A07MrqTI.jpg",
         "https://www.youtube.com/watch?v=6az9wGfeSgM")
 
+# Store movies in an array to pass to outside function
 movies = [spirited_away, matrix, shawshank_remdemption, godfather,
           empire_strikes_back, cuckoos_nest]
+
+# Call external rendering function with movie data
 fresh_tomatoes.open_movies_page(movies)
