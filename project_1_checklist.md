@@ -30,14 +30,14 @@ class myClass(object):
 
       print myClass.__doc__
 ```
-	- [ ] Pep8
-		- [ ] Python's style guide Pep8 is used
-		    - [ ] make sure that we write consistent, readable, and maintainable code.
-		- [ ] The maximum line length is 80 characters
-		    - [ ] method or a dict or array declaration passes 80 characters. 
-		        - [ ] You can resolve this by moving arguments to a new line
-	- [ ] Whitespace near comments
-		- [ ] My awesome comment has a space between the # symbol and text
+- [ ] Pep8
+	- [ ] Python's style guide Pep8 is used
+	    - [ ] make sure that we write consistent, readable, and maintainable code.
+	- [ ] The maximum line length is 80 characters
+	    - [ ] method or a dict or array declaration passes 80 characters. 
+	        - [ ] You can resolve this by moving arguments to a new line
+- [ ] Whitespace near comments
+	- [ ] My awesome comment has a space between the # symbol and text
 
 [README](http://jfhbrook.github.io/2011/11/09/readmes.html)
 - [ ] Project has a README
