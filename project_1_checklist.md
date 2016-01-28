@@ -1,7 +1,7 @@
-- [ ] [**Comments**](https://google.github.io/styleguide/pyguide.html#Comments)
-    - [ ] Block and inline comments
+- [x] [**Comments**](https://google.github.io/styleguide/pyguide.html#Comments)
+    - [x] Block and inline comments
 
-- [ ] **DocStrings**
+- [x] **DocStrings**
 ```python
 class myClass(object):
       """This is a example showing docstrings
