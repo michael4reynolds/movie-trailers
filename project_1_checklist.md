@@ -49,4 +49,4 @@ class myClass(object):
 - [x] Movie
 	- [x] add release year
 	- [x] add actors
-- [ ] adjust html template to show new fields
+- [x] adjust html template to show new fields
