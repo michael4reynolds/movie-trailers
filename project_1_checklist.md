@@ -40,12 +40,12 @@ class myClass(object):
 	- [x] My awesome comment has a space between the # symbol and text
 
 [README](http://jfhbrook.github.io/2011/11/09/readmes.html)
-- [ ] Project has a README
-- [ ] readme gives the user instructions on how to get started running your python code
+- [x] Project has a README
+- [x] readme gives the user instructions on how to get started running your python code
 
 [Testing](https://www.udacity.com/course/software-testing--cs258)
 
-Further Improvements
+### Further Improvements
 - [ ] Movie
 	- [ ] add release year
 	- [ ] add actors
