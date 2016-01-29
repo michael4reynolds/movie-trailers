@@ -45,7 +45,7 @@ class myClass(object):
 
 [Testing](https://www.udacity.com/course/software-testing--cs258)
 
-### Further Improvements
+**Further Improvements**
 - [ ] Movie
 	- [ ] add release year
 	- [ ] add actors
