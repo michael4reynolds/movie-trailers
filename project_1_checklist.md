@@ -1,7 +1,7 @@
-- [ ] [**Comments**](https://google.github.io/styleguide/pyguide.html#Comments)
-    - [ ] Block and inline comments
+- [x] [**Comments**](https://google.github.io/styleguide/pyguide.html#Comments)
+    - [x] Block and inline comments
 
-- [ ] **DocStrings**
+- [x] **DocStrings**
 ```python
 class myClass(object):
       """This is a example showing docstrings
@@ -30,17 +30,23 @@ class myClass(object):
 
       print myClass.__doc__
 ```
-- [ ] Pep8
-	- [ ] Python's style guide Pep8 is used
-	    - [ ] make sure that we write consistent, readable, and maintainable code.
-	- [ ] The maximum line length is 80 characters
-	    - [ ] method or a dict or array declaration passes 80 characters. 
-	        - [ ] You can resolve this by moving arguments to a new line
-- [ ] Whitespace near comments
-	- [ ] My awesome comment has a space between the # symbol and text
+- [x] Pep8
+	- [x] Python's style guide Pep8 is used
+	    - [x] make sure that we write consistent, readable, and maintainable code.
+	- [x] The maximum line length is 80 characters
+	    - [x] method or a dict or array declaration passes 80 characters. 
+	        - [x] You can resolve this by moving arguments to a new line
+- [x] Whitespace near comments
+	- [x] My awesome comment has a space between the # symbol and text
 
 [README](http://jfhbrook.github.io/2011/11/09/readmes.html)
-- [ ] Project has a README
-- [ ] readme gives the user instructions on how to get started running your python code
+- [x] Project has a README
+- [x] readme gives the user instructions on how to get started running your python code
 
 [Testing](https://www.udacity.com/course/software-testing--cs258)
+
+**Further Improvements**
+- [x] Movie
+	- [x] add release year
+	- [x] add actors
+- [x] adjust html template to show new fields
