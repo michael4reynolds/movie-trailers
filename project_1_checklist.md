@@ -46,7 +46,7 @@ class myClass(object):
 [Testing](https://www.udacity.com/course/software-testing--cs258)
 
 **Further Improvements**
-- [ ] Movie
-	- [ ] add release year
-	- [ ] add actors
+- [x] Movie
+	- [x] add release year
+	- [x] add actors
 - [ ] adjust html template to show new fields
